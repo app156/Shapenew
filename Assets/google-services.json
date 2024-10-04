@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "984753110013",
+    "firebase_url": "https://unitytest-a494d-default-rtdb.firebaseio.com",
+    "project_id": "unitytest-a494d",
+    "storage_bucket": "unitytest-a494d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:984753110013:android:17fde8d98c2d5da2a4f794",
+        "android_client_info": {
+          "package_name": "com.android.game"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCm7hXIiC3FdMCSYQjB7HSWd8z3d3wqMYs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
